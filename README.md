@@ -102,7 +102,7 @@ This will launch the web-based interface for querying the system.
    ![Original Table from PDF](./Images/original_table.png)
 
    #### OCR-Extracted Table
-   ![OCR-Extracted Table](./Images/extracted table.png)
+   ![OCR-Extracted Table](./Images/extracted_table.png)
 
    - To address these issues, using vision-based transformers, such as the one proposed in [this paper](https://arxiv.org/abs/2407.01449), could significantly improve content extraction, especially for complex table structures.
 
