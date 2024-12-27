@@ -1,0 +1,9 @@
+langchain
+aryn-sdk
+langchain-openai
+langchain-community
+langchain-chroma
+rank_bm25
+python-dotenv
+streamlit
+langchain-groq
