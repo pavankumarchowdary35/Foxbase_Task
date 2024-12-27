@@ -99,10 +99,10 @@ This will launch the web-based interface for querying the system.
    - The OCR tool struggles with complex tables containing merged cells, leading to structural changes that hinder the LLM's ability to process queries related to those tables. Below, you can see an example where the original table from the PDF has merged cells, and the OCR-extracted table does not preserve the structure correctly:
 
    #### Original Table from PDF
-   ![Original Table from PDF](Images/extracted_table.png)
+   ![Original Table from PDF](./Images/original_table.png)
 
    #### OCR-Extracted Table
-   ![OCR-Extracted Table](Images/extracted_table.png)
+   ![OCR-Extracted Table](./Images/extracted_table.png)
 
    - To address these issues, using vision-based transformers, such as the one proposed in [this paper](https://arxiv.org/abs/2407.01449), could significantly improve content extraction, especially for complex table structures.
 
